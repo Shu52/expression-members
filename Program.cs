@@ -35,11 +35,11 @@ namespace expression_members
         }
 
         // Convert this method to an expression member
-        public string PreyList => string.Join(",", this.Prey);
+        public string PreyList() => string.Join(",", this.Prey);
 
 
         // Convert this method to an expression member
-        public string PredatorList => string.Join(",", this.Predators);
+        public string PredatorList() => string.Join(",", this.Predators);
 
 
 
@@ -61,8 +61,8 @@ namespace expression_members
 
             Bug Eddie = new Bug("Eddie", "PrayingMantis",predators,prey);
          Console.WriteLine(Eddie.Eat("Aphids") + Eddie.FormalName);
-         Console.WriteLine(Eddie.PredatorList);
-         Console.WriteLine(Eddie.PreyList);
+         Console.WriteLine(Eddie.PredatorList());
+         Console.WriteLine(Eddie.PreyList());
         }
     }
 }
