@@ -1,0 +1,11 @@
+/home/shu/workspace/csharp/exercises/expression-members/bin/Debug/netcoreapp2.1/expression-members.deps.json
+/home/shu/workspace/csharp/exercises/expression-members/bin/Debug/netcoreapp2.1/expression-members.runtimeconfig.json
+/home/shu/workspace/csharp/exercises/expression-members/bin/Debug/netcoreapp2.1/expression-members.runtimeconfig.dev.json
+/home/shu/workspace/csharp/exercises/expression-members/bin/Debug/netcoreapp2.1/expression-members.dll
+/home/shu/workspace/csharp/exercises/expression-members/bin/Debug/netcoreapp2.1/expression-members.pdb
+/home/shu/workspace/csharp/exercises/expression-members/obj/Debug/netcoreapp2.1/expression-members.csprojAssemblyReference.cache
+/home/shu/workspace/csharp/exercises/expression-members/obj/Debug/netcoreapp2.1/expression-members.csproj.CoreCompileInputs.cache
+/home/shu/workspace/csharp/exercises/expression-members/obj/Debug/netcoreapp2.1/expression-members.AssemblyInfoInputs.cache
+/home/shu/workspace/csharp/exercises/expression-members/obj/Debug/netcoreapp2.1/expression-members.AssemblyInfo.cs
+/home/shu/workspace/csharp/exercises/expression-members/obj/Debug/netcoreapp2.1/expression-members.dll
+/home/shu/workspace/csharp/exercises/expression-members/obj/Debug/netcoreapp2.1/expression-members.pdb
